@@ -8,6 +8,12 @@ Version Control is the process of storing multiple versions of a single project,
 
 There are a lot of different ways to do version control. You could save a new file every time you make a change, timestamp that file, and place all of those files into a timestamped folder. You could track all of your changes in a spreadsheet with copious notes. Or you could use dedicated version control software. Guess which method programmers use?
 
+
+## Objectives:
+
+You will be able to:
+* Understand the reason for using git
+
 ## Why Use Version Control?
 
 Let's think about the future for a second. It's a year or two down the road, and you're working at your dream job (YAY!). You just deployed a new chat feature for the app you're working on. Suddenly, your boss runs over to your desk: "Wait! We can't deploy the chat yet! Revert! Revert!"
