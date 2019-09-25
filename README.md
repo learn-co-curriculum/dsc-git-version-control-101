@@ -13,7 +13,7 @@ There are a lot of different ways to do version control. You could save a new fi
 ## Objectives
 
 You will be able to:
-* Understand the reason for using git
+- Understand the reason for using git
 
 ## Why Use Version Control?
 
