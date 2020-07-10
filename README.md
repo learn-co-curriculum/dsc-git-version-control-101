@@ -1,5 +1,5 @@
 
-# Version Control 101
+# Git Version Control 101
 
 ## Introduction
 
