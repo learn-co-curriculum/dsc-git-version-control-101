@@ -12,7 +12,8 @@ There are a lot of different ways to do version control. You could save a new fi
 
 ## Objectives
 
-You will be able to:
+You will be able to:  
+
 * Describe the purpose of version control and Git
 
 ## Why Use Version Control?
