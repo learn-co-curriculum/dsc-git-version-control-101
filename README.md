@@ -1,5 +1,5 @@
 
-# Version Control 101
+# Git Version Control 101
 
 ## Introduction
 
@@ -12,8 +12,9 @@ There are a lot of different ways to do version control. You could save a new fi
 
 ## Objectives
 
-You will be able to:
-* Understand the reason for using Git
+You will be able to:  
+
+* Describe the purpose of version control and Git
 
 ## Why Use Version Control?
 
@@ -44,4 +45,4 @@ Check out some of the resources below to learn more about Git.
 
 ## Summary
 
-In this lesson, you were introduced to version control and Git!
+In this lesson, you were introduced to version control and Git, and the reasons we use it as part of our workflow!
