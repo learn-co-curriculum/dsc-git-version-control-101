@@ -22,7 +22,7 @@ Let's think about the future for a second. It's a year or two down the road, and
 
 What do you do? You need to find all of the new code you pushed to the server and delete it. Then you need to find the old code, test it, and re-upload it. So much work to do. Well, since you used version control software, it's as easy as 1, 2, 3. Actually, it's as easy as `git reset --hard <commit id>`... but we'll get to that later. Using version control is useful because it allows you to easily rollback to a previous version of your application, saving you a ton of extra work and time.
 
-There are a lot of advantages to version control. It's a great way to keep a backup of your work, it facilitates collaboration, and it gives you the freedom to experiment and try new things without messing up the code base.
+There are a lot of advantages to using version control. It's a great way to keep a backup of your work, it facilitates collaboration, and it gives you the freedom to experiment and try new things without messing up the code base.
 
 ## Local vs Remote Version Control
 
